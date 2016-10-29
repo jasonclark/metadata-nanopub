@@ -3,7 +3,6 @@
 ~~A Tribe Called Quest’s “Midnight Marauders” Tour Guide as Metadata: New Ways of Thinking about Embedded Metadata and Nanopublications for Web Archiving and Indexing of Digital Collections~~
 
 ##Brief Abstract 	
-50-word limit! Plain text only; please do not use HTML in this field.
 ~~What are the ties that bind metadata with the object it describes? This snapshot considers how embedded metadata standards like JSON-LD, RDFa, or Web Manifest files can cast and frame metadata within a Hip Hop listening/touring session narrator/guide/voice over metaphor wherein new possibilities for discovery, archiving, and publication formats emerge.~~
 
 What are the ties that bind metadata with the object it describes? This snapshot considers how embedded metadata standards like JSON-LD, RDFa, or Web Manifest files can cast and frame metadata within a Hip Hop MC/voiceover/narrator metaphor wherein new possibilities for discovery, archiving, and publication formats emerge.
