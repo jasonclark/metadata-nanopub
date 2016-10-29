@@ -14,7 +14,7 @@ No topics have been defined or assigned to this track.
 ##Keywords
 metadata, linked data, nanopublications, XML, JSON-LD
 
-##Please Select 	
+##License
 I/we agree to share the brief abstract under a CC-BY 4.0 license. 
 
 ##Full Proposal
