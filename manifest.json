@@ -1,0 +1,71 @@
+{
+  "default_locale": "en",
+  "lang": "en-US",
+  "dir": "ltr",
+  "background_color": "#f8f8f6",
+  "name": "Jason A. Clark",
+  "short_name": "ClarkWeb",
+  "description": "Jason A. Clark's website includes his resume, samples of his projects, working code for sample applications, talks, and publications.",
+  "related_applications": [
+    {
+      "platform": "web",
+      "url": "https://github.com/jasonclark/clark-website"
+    }
+  ],
+  "topic": [
+    {
+      "name": "Semantic Web",
+      "uri": "http://dbpedia.org/resource/Semantic_Web"
+    },
+    {
+      "name": "Open Web Platform",
+      "uri": "http://dbpedia.org/resource/Open_Web_Platform"
+    },
+    {
+      "name": "User interface design",
+      "uri": "http://dbpedia.org/resource/User_interface_design"
+    },
+    {
+      "name": "Javascript",
+      "uri": "http://dbpedia.org/resource/Javascript"
+    },
+    {
+      "name": "Digital libraries",
+      "uri": "http://id.loc.gov/authorities/subjects/sh95008857.rdf"
+    },
+    {
+      "name": "Metadata",
+      "uri": "http://id.loc.gov/authorities/subjects/sh96000740.rdf"
+    },
+    {
+      "name": "Web services",
+      "uri": "http://id.loc.gov/authorities/subjects/sh2003001435.rdf"
+    },
+    {
+      "name": "Linked data",
+      "uri": "http://id.loc.gov/authorities/subjects/sh2013002090.rdf"
+    }
+  ],
+  "developer": {
+    "name": "Jason A. Clark",
+    "url": "http://www.jasonclark.info"
+  },
+  "display": "standalone",
+  "orientation": "any",
+  "start_url": "./index.html",
+  "scope": "/~jason/",
+  "screenshots": [
+    {
+      "src": "./meta/img/manifest.png",
+      "sizes": "320x220",
+      "type": "image/png"
+    }
+  ],
+  "icons": [
+    {
+      "src": "./meta/img/manifest.png",
+      "sizes": "320x220",
+      "type": "image/png"
+    }
+  ]
+}
