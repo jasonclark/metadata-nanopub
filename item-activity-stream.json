@@ -1,0 +1,42 @@
+{
+    "@context": "http://www.w3.org/ns/activitystreams",
+    "name": "Nanopub - Ecological approaches to riparian restoration in northeast Oregon",
+    "id": "http://arc.lib.montana.edu/range-science/item/619",
+    "published": "2014-12-12T12:12:12Z",
+    "type": "Collection",
+    "totalItems": 4,
+    "partOf": "Restoration and Management Notes",
+    "items": [
+        {
+            "type": "Article",
+            "name": "Ecological approaches to riparian restoration in northeast Oregon",
+            "actor": "S. R. Senock, D. M. Anderson, L. W. Murray, and G. B. Donart",
+            "id": "http://dx.doi.org/10.2307/4002860",
+            "object": "http://dx.doi.org/10.2307/4002860"
+        },
+        {
+            "type": "Note",
+            "name": "Article Summary / Main Points",
+            "actor": "RSIS editors",
+            "content": "Senock, et. al. look at how...",
+            "id": "http://arc.lib.montana.edu/range-science/item/619#summary",
+            "object": "http://arc.lib.montana.edu/range-science/item/619#summary"
+        },
+        {
+            "type": "Note",
+            "name": "Summary of Methods",
+            "actor": "RSIS editors",
+            "content": "The methods used in ...",
+            "id": "http://arc.lib.montana.edu/range-science/item/619#methods",
+            "object": "http://arc.lib.montana.edu/range-science/item/619#methods"
+        },
+        {
+            "type": "Note",
+            "name": "Annotation",
+            "actor": "RSIS editors",
+            "content": "The 2 stocking treatments used in this study consisted...",
+            "id": "http://arc.lib.montana.edu/range-science/item/619#annotation",
+            "object": "http://arc.lib.montana.edu/range-science/item/619#annotation"
+        }
+    ]
+}
