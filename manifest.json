@@ -3,9 +3,9 @@
   "lang": "en-US",
   "dir": "ltr",
   "background_color": "#f8f8f6",
-  "name": "Jason A. Clark",
-  "short_name": "ClarkWeb",
-  "description": "Jason A. Clark's website includes his resume, samples of his projects, working code for sample applications, talks, and publications.",
+  "name": "Range Science Information System (RSIS)",
+  "short_name": "RSIS",
+  "description": "The Range Science Research Information System (RSIS) has over 1,400 bibliographic citations to journal articles and documents on riparian and rangeland management, range ecology research, earth sciences, and agriculture management. Article citations includes title, authors, journal, summary, keywords and AGROVOC thesaurus subjects.",
   "related_applications": [
     {
       "platform": "web",
