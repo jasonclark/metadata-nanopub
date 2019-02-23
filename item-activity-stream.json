@@ -38,6 +38,10 @@
             "content": "The 2 stocking treatments used in this study consisted...",
             "id": "http://arc.lib.montana.edu/range-science/item/619#annotation",
             "object": "http://arc.lib.montana.edu/range-science/item/619#annotation"
-        }
+        },
+	"target": {
+            "type": "Collection",
+            "id": "http://arc.lib.montana.edu/range-science/item/619"	
+	}
     ]
 }
