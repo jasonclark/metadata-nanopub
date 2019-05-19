@@ -12,39 +12,31 @@
       "url": "https://github.com/jasonclark/clark-website"
     }
   ],
-  "categories": "books, education",
-  "topic": [
+  "categories": ["education", "agriculture", "range science", "ecology", "earth science"]
+  "topics": [
     {
-      "name": "Semantic Web",
-      "uri": "http://dbpedia.org/resource/Semantic_Web"
+      "name": "agricultural engineering",
+      "uri": "https://www.wikidata.org/wiki/Q194118"
     },
     {
-      "name": "Open Web Platform",
-      "uri": "http://dbpedia.org/resource/Open_Web_Platform"
+      "name": "agricultural science",
+      "uri": "https://www.wikidata.org/wiki/Q3606845"
     },
     {
-      "name": "User interface design",
-      "uri": "http://dbpedia.org/resource/User_interface_design"
+      "name": "earth sciences",
+      "uri": "https://www.wikidata.org/wiki/Q8008"
     },
     {
-      "name": "Javascript",
-      "uri": "http://dbpedia.org/resource/Javascript"
+      "name": "ecology",
+      "uri": "https://www.wikidata.org/wiki/Q7150"
     },
     {
-      "name": "Digital libraries",
-      "uri": "http://id.loc.gov/authorities/subjects/sh95008857.rdf"
+      "name": "rangeland",
+      "uri": "https://www.wikidata.org/wiki/Q767423"
     },
     {
-      "name": "Metadata",
-      "uri": "http://id.loc.gov/authorities/subjects/sh96000740.rdf"
-    },
-    {
-      "name": "Web services",
-      "uri": "http://id.loc.gov/authorities/subjects/sh2003001435.rdf"
-    },
-    {
-      "name": "Linked data",
-      "uri": "http://id.loc.gov/authorities/subjects/sh2013002090.rdf"
+      "name": "riparian zone",
+      "uri": "https://www.wikidata.org/wiki/Q13360049"
     }
   ],
   "developer": {
